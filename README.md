@@ -35,4 +35,6 @@ The goal of this lab is to extend your use of classes to build a usable script. 
 
 [Raspberry Pi Foundation - Getting Started with Git](https://projects.raspberrypi.org/en/projects/getting-started-with-git)
 
+[All About Circuits - PWM](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-11/pulse-width-modulation/)
+
 [Ozeki 10 - Raspberry Pi RGB LED Control Code](https://ozeki.hu/p_3047-how-to-setup-a-rgb-led-on-raspberry-pi.html#:~:text=Raspberry%20PI%20RGB%20LED%20Control,set%20from%200%20to%20255.)
