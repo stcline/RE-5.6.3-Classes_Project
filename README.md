@@ -22,12 +22,13 @@ The goal of this lab is to extend your use of classes to build a usable script. 
 
 ## 📝 Next steps
 1. Clone this repo to your Raspberry Pi.
-2. Build a class within a script to control an RGB LED as follows (you may use the starter code found here if you like):
+2. Using a breadboard, resistors, jumper wires and an RGB LED, build your prototype as directed in the last link in the resources below.
+3. Build a class within a script to control an RGB LED as follows (you may use the starter code found here if you like):
     - The user is a asked for a red, green and blue duty cycle.
     - The user is asked for a duration the light will stay on.
     - The light activated according to those parameters and then shuts off.
-3. Add and commit your new script to the local repo.
-4. Push your changes here.
+4. Add and commit your new script to the local repo.
+5. Push your changes here.
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
